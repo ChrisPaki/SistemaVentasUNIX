@@ -1,0 +1,2 @@
+0#Nombre$Existencia(Int)
+1#El Quijote$5
